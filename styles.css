@@ -616,14 +616,13 @@ textarea:focus {
     font-size: 34px;
   }
 
-  .grid,
-  .bot-feature-grid,
-  .plan-grid,
-  .results-grid,
-  .works-grid,
-  .sns-list {
+ .grid,
+.plan-grid,
+.results-grid,
+.works-grid,
+.sns-list {
     grid-template-columns: 1fr;
-  }
+}
 
   .price-card.premium {
     grid-column: auto;
